@@ -1,4 +1,4 @@
-# Scenario 10 — Sliding Puzzle
+# Scenario 22 — Sliding Puzzle
 
 A terminal sliding puzzle with configurable board size and legal blank-space moves.
 
